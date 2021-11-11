@@ -1,0 +1,26 @@
+# OS X
+.DS_Store
+
+# vim
+*.swp
+
+# emacs
+*~
+
+Changelog.md
+
+# Node
+node_modules
+npm-debug.log
+
+# Generated js files
+build
+dist
+lib
+
+# Generated coverage reports
+coverage
+coverage-lcov
+
+# IDE
+.idea
